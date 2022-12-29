@@ -1,5 +1,5 @@
 <!-- Headings -->
-### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=al33mahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="al33mahmad1" /> </p>
+### Hi there 👋
 #### I'm Fullstack Web Developer working in Lahore, Pakistan.
 
 - 🔭 I’m currently working in <a href="https://www.siteascend.com/" target="blank">Site Ascend</a>
@@ -27,3 +27,5 @@
 <a href="https://www.linkedin.com/in/al33mahmad1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://twitter.com/intent/follow?screen_name=Al33mAhmad" target="blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
+
+<p align="center" style="display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=al33mahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="al33mahmad1" /> </p>
