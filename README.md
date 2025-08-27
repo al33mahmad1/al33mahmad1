@@ -16,8 +16,8 @@
 - 🏗️ Building Web Apps with **Laravel + Vue.js**  
 - 🤝 Open for **Freelancing / Remote Projects**  
 - 🌱 Learning **AI Agents, n8n Automations, & LLM Integrations**  
-- 📚 Currently reading *How to Win Friends and Influence People* by **Dale Carnegie**  
-- 👨‍💻 Co-Founder & CEO of [Gigaheap Pvt Ltd](https://github.com/al33mahmad1)  
+- 🏏 I love playing sports like **Cricket, Badminton** in my free time.
+- 👨‍💻 Co-Founder & CTO of [Gigaheap Pvt Ltd](https://github.com/al33mahmad1)  
 
 ---
 
