@@ -1,6 +1,6 @@
 <!-- Headings -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Aleem%20Ahmad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=Building%20Scalable%20Web%20Apps%20&%20AI%20Workflows&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <!-- Introduction -->
