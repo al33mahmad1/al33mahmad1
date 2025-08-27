@@ -1,22 +1,40 @@
 <!-- Headings -->
-### Hi there 👋
-#### I'm Fullstack Web Developer working in Lahore, Pakistan.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Aleem%20Ahmad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+</p>
 
-- 🔭 I’m currently working in <a href="https://www.siteascend.com/" target="blank">Site Ascend</a>
+<!-- Introduction -->
+### 👋 Hi, I'm Aleem Ahmad  
+#### 🚀 Full-Stack Web Developer | Core PHP | Laravel | Vue.js | AI & Automations Enthusiast 
 
-- 💪 I’m currently Working on Web App(Laravel + Vue)
+💻 I’m a **Full-Stack Web Developer** based in **Lahore, Pakistan**, passionate about building modern web apps and exploring **AI integrations** to automate workflows.  
 
-- 🤝 I’m available for freelancing.
+---
 
-- 🌱 I’m currently learning <a href="https://nuxtjs.org/docs/get-started/installation" target="blank">Nuxt</a>
+### 🌟 About Me  
+- 🔭 Currently working at [Site Ascend](https://www.siteascend.com/)  
+- 🏗️ Building Web Apps with **Laravel + Vue.js**  
+- 🤝 Open for **Freelancing / Remote Projects**  
+- 🌱 Learning **AI Agents, n8n Automations, & LLM Integrations**  
+- 📚 Currently reading *How to Win Friends and Influence People* by **Dale Carnegie**  
+- 👨‍💻 Co-Founder & CEO of [Gigaheap Pvt Ltd](https://github.com/al33mahmad1)  
 
-- 💬 Ask me about **PHP(LAMP Stack) & Laravel**
+---
 
-- 📗 I regularly read book and currently my favourit book is **How to win friends and influence people** by ***Dale Carnegie***
+### ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,bootstrap,mysql,mongodb,nodejs,firebase,docker,git,aws" />
+</p>
 
-- 📄 Visit my <a href="https://al33mahmad.com/" target="blank">Portfolio Website</a>
-<br/>
+---
 
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al33mahmad1&show_icons=true&theme=merko" alt="stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al33mahmad1&layout=compact&theme=merko" alt="languages" height="170"/>
+</p>
+
+---
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al33mahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="al33mahmad1" /> </p>  -->
 
