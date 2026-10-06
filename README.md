@@ -1,48 +1,105 @@
-<!-- Headings -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=Exploring%2C%20experimenting%2C%20and%20evolving%20with%20every%20commit.&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a9e8f&height=200&section=header&text=Aleem%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Laravel%20%26%20Vue%20engineer%20for%20SaaS%2C%20dashboards%20and%20business%20software&descSize=17&descAlignY=58&animation=fadeIn" alt="Aleem Ahmad, Laravel and Vue engineer" />
 </p>
 
-<!-- Introduction -->
-### 👋 Hi, I'm Aleem Ahmad  
-#### 🚀 Full-Stack Web Developer | Core PHP | Laravel | Vue.js | AI & Automations Enthusiast 
-
-💻 I’m a **Full-Stack Web Developer** based in **Lahore, Pakistan**, passionate about building modern web apps with PHP, Laravel, and Vue.js and exploring **AI integrations** to automate workflows.  
-
----
-
-### 🌟 About Me  
-- 🚀 Helping businesses build **scalable, high-performance web applications**  
-- 🏗️ Expertise in **PHP, Laravel, Vue.js**, and modern web stacks  
-- 🤖 Exploring the future with **AI Agents, Workflow Automations (n8n), & LLM Integrations**  
-- 💼 Currently collaborating with [Site Ascend](https://www.siteascend.com/)  
-- 🤝 Open to **Freelance & Remote Projects**, delivering solutions that make an impact  
-- 🏏 Outside of tech, I recharge through **Cricket & Badminton**  
-
----
-
-### ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,tailwind,postgres,mysql,mongodb,firebase,docker,git,aws,vscode" />
+  <b>Senior Full-Stack Engineer</b> · Laravel · Vue 3 · PostgreSQL · AWS<br/>
+  8 years in production · Top Rated on Upwork (100% Job Success) · Lahore, Pakistan (UTC+5), working with US, UK and EU teams
+</p>
+
+<p align="center">
+  <a href="https://aleemahmad.dev"><img src="https://img.shields.io/badge/Portfolio-aleemahmad.dev-0e75b6?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.upwork.com/freelancers/~018ea08083a4a8aaf7"><img src="https://img.shields.io/badge/Hire%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire on Upwork"/></a>
+  <a href="https://www.linkedin.com/in/al33mahmad1/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:aleemahmada107@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
-<!--
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al33mahmad1&show_icons=true&theme=merko" alt="stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al33mahmad1&layout=compact&theme=merko" alt="languages" height="170"/>
-</p>
+
+### 👋 Hi, I'm Aleem
+
+I build custom web applications for businesses that have outgrown spreadsheets and off-the-shelf tools: SaaS platforms, internal dashboards, client portals and the operations software a company actually runs on.
+
+I own the whole stack, from database design to the last pixel of the UI, so you talk to one person who understands every layer. I've spent the last four-plus years as a senior engineer on a US company's core platform, and I've run my own production software for a real business every single day. I know what breaks when real users show up, because I've had to fix it at the counter.
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al33mahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="al33mahmad1" /> </p>  -->
 
-<p align="center">
-<a href="https://www.upwork.com/freelancers/~018ea08083a4a8aaf7" target="blank"><img src="https://img.shields.io/badge/UpWork-%2314a800.svg?style=plastic&logo=upwork&logoColor=white" alt="UpWork"/></a>
-<!--<a href="mailto:aleemahmada107@gmail.com" target="blank"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a> -->
-<!-- <a href="https://github.com/al33mahmad1" target="blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a> -->
-<a href="https://www.linkedin.com/in/al33mahmad1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<!--<a href="https://twitter.com/intent/follow?screen_name=Al33mAhmad" target="blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
+### 🛠️ What I can do for you
+
+| If you need... | I'll deliver |
+|---|---|
+| **A SaaS product or MVP** | Multi-tenant architecture, roles and permissions, Stripe subscriptions, admin panel, deployed and documented |
+| **Internal tools & dashboards** | Back-office systems, reporting, CSV/data imports at scale, workflow automation |
+| **A rescue for an existing Laravel app** | Bug triage, performance fixes, security review, upgrades, tests, and a codebase the next developer can work in |
+| **Your AI-built app made production ready** | Lovable, Bolt or Replit prototype that works in the demo but breaks with real users? I turn it into maintainable code |
+| **Integrations** | Stripe & Cashier, webhooks, REST APIs, OpenAI, Twilio, AWS, n8n automations |
+
+---
+
+### 📂 Work I can show you
+
+**🏏 Booking & operations platform for a sports venue** · [6nout.com](https://www.6nout.com)<br/>
+Built from scratch and run in production at a commercial indoor cricket arena in Lahore. Court bookings with conflict prevention, customers and payment history, expenses, teams, series and match results, staff roles, and a public site with a live leaderboard fed by the same system. Now being extended into multi-tenant SaaS for other venues.<br/>
+`Laravel` `Vue 3` `Inertia.js` `PostgreSQL` `Spatie Permissions`
+
+**📈 Dexter: B2B demand-generation platform** · Site Ascend, New York<br/>
+Primary engineer on the company's core platform for four-plus years: data import, audience building, buying committees, outbound campaigns, call dispositions, meeting tracking and client ROI reporting. A large, long-lived codebase:
+
+> **766** Vue 3 components · **127** Eloquent models · **337** migrations · **~2,090** commits (65% mine) · **17** queued job domains · team across **4 time zones**
+
+`Laravel` `Vue 3 + TypeScript` `TanStack Query/Table` `PostgreSQL` `Redis` `Reverb/WebSockets` `AWS` `GitHub Actions`
+
+**💳 CoinJoy: creator monetisation platform** · built solo<br/>
+Subscriptions and donations for crypto creators. Stripe Cashier billing, signature-validated webhooks, on-chain payment verification as idempotent queued jobs, ledger-style schema so the money always adds up.<br/>
+`Laravel` `Livewire` `MySQL` `Stripe`
+
+**🎸 Lam Jones: classifieds marketplace for musicians** · [lamjones.com](https://lamjones.com)<br/>
+Musicians post and answer ads without exposing their email: replies are relayed by the platform. Member profiles, galleries, tagging by genre, instrument and service.<br/>
+`Laravel` `MySQL`
+
+> 🔒 Most client code is private. I'm happy to walk you through any of these projects on a call and show the architecture behind them.
+
+---
+
+### ⚙️ Tech I use every day
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,ts,js,tailwind,postgres,mysql,redis,aws,docker,nginx,linux,githubactions&perline=14" alt="Laravel, PHP, Vue, TypeScript, JavaScript, Tailwind, PostgreSQL, MySQL, Redis, AWS, Docker, Nginx, Linux, GitHub Actions" />
 </p>
 
-<p align="center" style="display: inline-block;"> <img src="https://komarev.com/ghpvc/?username=al33mahmad1&label=Profile%20views&color=0e75b6&style=flat" alt="al33mahmad1" /> </p>
+- **Backend:** Laravel 12, PHP 8.x, PostgreSQL, MySQL, Redis, queues, REST APIs, WebSockets (Reverb/Echo)
+- **Frontend:** Vue 3 (Composition API + TypeScript), Inertia.js, Livewire 3, Tailwind CSS, Vite
+- **DevOps:** AWS (EC2, S3, CodeDeploy), GitHub Actions CI/CD, Docker, Nginx, Laravel Forge
+- **Quality:** PHPUnit, Pest, code review, architecture decision records
+- **AI & automation:** Claude Code and Cursor in my daily workflow, issue-to-PR automation with the Claude Code GitHub Action, n8n, OpenAI API
+
+---
+
+### 🤝 How I work
+
+- **Honest about fit.** If I'm not the right person for your project, I'll tell you before you spend a cent.
+- **Clear communication.** Regular written updates, overlap with US mornings and UK/EU working hours, replies within a few hours.
+- **Code the next developer won't curse.** Readable, tested where it matters, documented, and handed over properly.
+- **AI-assisted, human-reviewed.** I use AI tools to move faster, and I review and test every line before it ships.
+
+<blockquote>
+  <i>"Aleem knows what he is doing and very honest on the full stack development."</i><br/>
+  <i>"Excellent work, one of the best contractors we worked with."</i><br/>
+  <i>"Communication was excellent, and turnaround time as well. The code was clean."</i><br/>
+  <sub>Client reviews on Upwork</sub>
+</blockquote>
+
+---
+
+### 📬 Let's build something
+
+**Open to freelance projects and long-term remote roles.** Tell me what you're building and where it's stuck, and I'll reply with an honest take on how I'd approach it.
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~018ea08083a4a8aaf7"><b>Hire me on Upwork</b></a> ·
+  <a href="mailto:aleemahmada107@gmail.com"><b>aleemahmada107@gmail.com</b></a> ·
+  <a href="https://www.linkedin.com/in/al33mahmad1/"><b>LinkedIn</b></a> ·
+  <a href="https://aleemahmad.dev"><b>aleemahmad.dev</b></a>
+</p>
+
+<sub>🏏 Off the keyboard you'll find me on a cricket pitch or a badminton court.</sub>
