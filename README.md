@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a9e8f&height=200&section=header&text=Aleem%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Laravel%20%26%20Vue%20engineer%20for%20SaaS%2C%20dashboards%20and%20business%20software&descSize=17&descAlignY=58&animation=fadeIn" alt="Aleem Ahmad, Laravel and Vue engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a9e8f&height=200&section=header&text=Aleem%20Ahmad&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Laravel%20and%20Vue%20engineer%20for%20SaaS%2C%20dashboards%20and%20business%20software&descSize=17&descAlignY=58&animation=fadeIn" alt="Aleem Ahmad, Laravel and Vue engineer" />
 </p>
 
 <p align="center">
